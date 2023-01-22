@@ -1,6 +1,6 @@
 # Challenge: "Baby Name Picker (React)"
 
-![Example Screenshot from the finished challenge](./example-screenshots/finished.png)
+![Example Screenshot from the finished challenge](./src/finishedSample.png)
 
 ## Challenge Overview
 
