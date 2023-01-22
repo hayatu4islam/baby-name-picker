@@ -37,7 +37,7 @@ Write a plain HTML prototype (e.g. on codepen).  THEN, once you know the HTML yo
 
 ### The data:
 
-The data is available in the file [./babyNamesData.json]((https://github.com/hayatu4islam/baby-name-picker/blob/main/src/babyNamesData.json)).
+The data is available in the file [./babyNamesData.json](https://github.com/hayatu4islam/baby-name-picker/blob/main/src/babyNamesData.json).
 
 Copy across this file to your src/ directory, and then import it.
 
